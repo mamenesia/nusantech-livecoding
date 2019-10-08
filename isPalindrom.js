@@ -11,5 +11,5 @@ const isPalindrome = str => {
 	)
 }
 
-isPalindrome('malammalam')
-isPalindrome('malaM ini malam')
+isPalindrome('malamMaaM')
+isPalindrome('malaM inI malaM')
