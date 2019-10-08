@@ -24,3 +24,4 @@ const urutkan = arr => {
 	console.log(arr2)
 }
 urutkan([4, 6, 2, 6, 7, 1, 3, 8, 2, 10, 9])
+urutkan([3, 444, 5555, 2222, 5556, 7777, 2223])
